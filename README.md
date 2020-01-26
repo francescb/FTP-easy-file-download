@@ -11,5 +11,5 @@ How To Use This
 
 1. Download the script and make sure that Python is installed in your computer.
 2. Open a terminal console and execute the script by using the command:
-  python ftpDownload.py -H "hostname" -u "username" -p "password" -d "server Directory" -f "file Type" -t "local destination Directory"
+ ``` python ftpDownload.py -H "hostname" -u "username" -p "password" -d "server Directory" -f "file Type" -t "local destination Directory" ```
 
