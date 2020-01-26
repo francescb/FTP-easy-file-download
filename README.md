@@ -13,3 +13,10 @@ How To Use This
 2. Open a terminal console and execute the script by using the command:
  ``` python ftpDownload.py -H "hostname" -u "username" -p "password" -d "server Directory" -f "file Type" -t "local destination Directory" ``` 
 
+  
+   - -H HOSTNAME           Specify hostname
+   - -u USERNAME           Specify username
+   - -p PASSWORD           Specify password
+   - -d DIRECTORY          Specify FTP directory from which to download the files
+   - -f FILETYPE           Specify Filetype to Retrieve (do not specify it if no specific filetype is needed to be retrieved)
+   - -t TARGETDESTINATION  Specify Local Destination
