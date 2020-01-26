@@ -4,7 +4,7 @@ Download multiple files from a server via FTP.
 What Is This?
 -------------
 
-Easy file downloader via FTP is a simple script to make, as its name indicates, downloading files from servers via FTP easy and intuitive. This script allows you to download multiple files from a specified directory on the server, allowing to filter by file type.
+Easy file downloader via FTP is a simple script to make, as its name indicates, downloading files from servers via FTP easy and intuitive. This script allows you to download multiple files from a specified directory on the server, allowing to filter by file type and only retrieving the files which are not already stored locally.
 
 How To Use This
 ---------------
