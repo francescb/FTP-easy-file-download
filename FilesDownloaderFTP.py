@@ -65,6 +65,7 @@ def downloadFiles(ftp, fileList, destination, fileType = ""):
             print("Error downloading " + str(file))
             errors += 1
     print("\n[*] Finished downloading " + str(nFiles) + " files: " + str(errors) + " errors found.")
+    return errors
 
 def main():
     parser = optparse.OptionParser(usage="usage: %prog [options]", description="""Download multiple files from a server via FTP.
